@@ -40,7 +40,7 @@ Welcome to my **technical writing hub**, where precision meets user-centric desi
 
 ### ⚙️ API & Technical Docs  
 - *Developer guides and knowledge bases*  
-- **Examples:** FranchiCzar API docs
+- **Examples:** [WeatherBand API Project](https://github.com/johnbeatty575/WeatherBand-API-Docs/)
 
 ### 🎨 Templates & KBs  
 - *Reusable frameworks for consistency*  
